@@ -1,0 +1,5 @@
+INFO: [10, 15]
+INFO: The program started.
+INFO: Checking Row: 5 Col: 7
+INFO: Obstacle has been added to Row: 5 Col: 7
+INFO: Going backwards.
