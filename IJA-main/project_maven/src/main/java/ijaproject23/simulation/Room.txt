@@ -1,0 +1,7 @@
+Obstacles:
+1 2
+9 9
+ControlledRobots:
+3 5 45
+ProgrammedRobots:
+7 9 90 3

@@ -1,0 +1,61 @@
+INFO: The program started.
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 3 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 3 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 3 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 3 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 3 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 3 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 4 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 4 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 5 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 5 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 6 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 6 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 7 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 7 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 8 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 8 Angle: 0
+INFO: Programmed robot has been added.
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 9 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 9 Angle: 0
+INFO: Programmed robot has been added.
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 9 Angle: 0
+INFO: Controlled robot to position: Row: 5 Col: 5 Angle: 0
+INFO: Programmed robot to position: Row: 1 Col: 9 Angle: 0
+INFO: Trying to open a file.
+INFO: The environment was loaded from the file.
+INFO: Controlled robot to position: Row: 3 Col: 5 Angle: 45
+INFO: Programmed robot to position: Row: 7 Col: 9 Angle: 45
+INFO: Controlled robot to position: Row: 3 Col: 5 Angle: 45
+INFO: Programmed robot to position: Row: 7 Col: 9 Angle: 45
+INFO: Controlled robot to position: Row: 3 Col: 5 Angle: 45
+INFO: Programmed robot to position: Row: 7 Col: 9 Angle: 45
+INFO: Controlled robot to position: Row: 3 Col: 5 Angle: 45
+INFO: Programmed robot to position: Row: 7 Col: 9 Angle: 45
+INFO: Controlled robot to position: Row: 3 Col: 5 Angle: 45
+INFO: Programmed robot to position: Row: 7 Col: 9 Angle: 45
+INFO: Controlled robot to position: Row: 3 Col: 5 Angle: 45
+INFO: Programmed robot to position: Row: 7 Col: 9 Angle: 45
+INFO: Controlled robot to position: Row: 3 Col: 5 Angle: 45
+INFO: Programmed robot to position: Row: 8 Col: 8 Angle: 45
+INFO: Controlled robot to position: Row: 3 Col: 5 Angle: 45
+INFO: Programmed robot to position: Row: 8 Col: 8 Angle: 45
